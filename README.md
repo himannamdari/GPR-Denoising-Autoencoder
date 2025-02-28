@@ -2,6 +2,9 @@
 
 ## Overview
 This project implements a **denoising autoencoder (DAE)** for **Ground Penetrating Radar (GPR) signals**. It helps remove noise from GPR data, improving subsurface interpretation.
+## Disclaimer
+This project is an **experimental implementation** and serves as a **foundation for GPR signal denoising**. The model may require **further tuning** to generalize well to real-world data. Users are encouraged to **fine-tune hyperparameters, explore different architectures, and test with diverse datasets** for optimal performance.
+
 
 ## Features
 - Uses a **Convolutional Autoencoder** to filter out noise.
